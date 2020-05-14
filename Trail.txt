@@ -2,4 +2,6 @@ Hello world
 
 With in 10 min i'll learn basics of github
 
-Now it is changed to NewVersion
+
+Now it was changed to NewVersion
+

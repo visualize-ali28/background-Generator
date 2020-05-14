@@ -1,1 +1,3 @@
 Hello world
+
+With in 10 min i'll learn basics of github
